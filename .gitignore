@@ -1,0 +1,11 @@
+build.gradle
+.gitignore
+resources
+gradle
+gradlew.bat
+gradlew
+build
+.idea
+.gradle
+index.jsp
+settings.gradle
